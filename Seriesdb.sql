@@ -15,21 +15,6 @@ insert into Series values('Kota Factory','Drama,comedy','Raghav Subbu','India',"
 insert into Series values('F.L.A.M.E.S','Romance,Drama','Apoorv Singh Karki','India',"Ended',2018,2019);
 
 
-3.)Select series with director name,genre,country where country is USA and status is ended ?
-
-select table series where country is 'USA' and 'ended';
-
-
-
-4.) Select series which was telecasted between 2010 and 2021?
-
-select table series where YOR between 2010 to 2021;
-
-
-
-5.) Select series which was telecasted between 2000 and 2010?
-
-select table series where YOR between 2010 to 2021;
 
 
 
