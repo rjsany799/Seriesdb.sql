@@ -7,7 +7,7 @@ create database Seriesdb;
 
 2.)create table series with following columns :- name,genre,director,country,status,yor,yoe?
 
-create table Series(name varchar(200) ,genre varchar(200),director varchar(200),country varchar(200),status varchar(200),yor int,yoe int);
+create table Series(ID int,Series varchar(200) ,genre varchar(200),director varchar(200),country varchar(200),status varchar(200),yor int,yoe int);
 
 
 insert into Series values('Money Hiest','Drama,Hiest','Jesús Colmenar','Spain',"Active',2017,2021);
